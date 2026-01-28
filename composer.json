@@ -1,0 +1,13 @@
+{
+    "name": "vendor/crudphp",
+    "description": "Description of project crudphp.",
+    "authors": [
+        {
+            "name": "user",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "dev-master"
+    }
+}
